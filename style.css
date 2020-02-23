@@ -1,0 +1,23 @@
+#logo {
+    width: 40px;
+    height: 40px;
+    background-image: url('https://cdn3.iconfinder.com/data/icons/luchesa-vol-9/128/Weather-512.png');
+    background-position: fixed;
+    background-size: cover;
+}
+
+#icon {
+    width: 100px;
+    height: 100px
+}
+#homeDiv {
+    margin-top: 20vh;
+}
+
+
+#table {
+ color: black;   
+}
+#table th {
+    background-color: #fafafa
+}
